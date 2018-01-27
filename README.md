@@ -10,7 +10,8 @@ madan p sample.md
 This is what will it look like in terminal. 
 
 ![screenshot](screenshot.png)
-## Install
+
+## Installation 
 
 **Make sure you already have gem and bundler installed**
 
