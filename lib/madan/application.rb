@@ -29,6 +29,7 @@ module Madan
         end
       end
       alias_command :p, :present
+      alias_command :preview, :present
       run!
     end
   end
