@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["gaotongfei1995@gmail.com"]
 
   spec.summary       = %q{Preview markdown file in terminal.}
-  spec.description   = %q{Thanks to @piotrmurach's great work, you can preview markdown file in terminal with a friendly output now.}
+  spec.description   = %q{Preview markdown file in terminal.}
   spec.homepage      = "https://github.com/gaotongfei/madan"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
