@@ -7,3 +7,6 @@
 /spec/reports/
 /tmp/
 .idea/
+*.swp
+*.swo
+Gemfile.lock
