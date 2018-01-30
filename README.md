@@ -13,10 +13,8 @@ This is what will it look like in terminal.
 
 ## Installation 
 
-**Make sure you already have gem and bundler installed**
-
 ```
-curl https://raw.githubusercontent.com/gaotongfei/madan/master/install.sh | sh
+gem install madan
 ```
 
 

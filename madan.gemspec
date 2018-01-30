@@ -34,7 +34,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry"
   spec.add_development_dependency "pry-byebug"
 
-  #spec.add_dependency "tty-markdown"
+  spec.add_dependency "tty-markdown", "~> 0.2.0"
   spec.add_dependency "tty-pager"
   spec.add_dependency "commander"
 end

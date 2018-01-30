@@ -4,4 +4,3 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # Specify your gem's dependencies in madan.gemspec
 gemspec
-gem 'tty-markdown', :git => 'git@github.com:piotrmurach/tty-markdown.git', :ref => '790106a'
